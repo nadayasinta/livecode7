@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+.header {
+  background-color: #e9ebf2;
+}
+.header .logo {
+  width: 75px;
+}
+.header ul {
+  list-style-type: none;
+}
+.header ul li {
+  float: left;
+  padding: 0 10px;
+}
+.header a {
+  color: #3c3c3c;
+  text-decoration: none;
+}
+.header a:hover {
+  color: #3c3c3c;
+}
